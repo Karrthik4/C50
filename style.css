@@ -1,0 +1,31 @@
+h1{
+    color:blue;
+}
+
+h2,p{
+    background-color: aquamarine;
+    color:rgb(253, 44, 44);
+}
+
+*{
+    border:solid;
+}
+
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    background-color: aquamarine;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.footer{
+    background-color: aquamarine;
+    display:flex;
+    justify-content: flex-end;
+}
